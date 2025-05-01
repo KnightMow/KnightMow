@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/C)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KnightMow&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
