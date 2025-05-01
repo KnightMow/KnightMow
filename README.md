@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)
+When you read this sentence you will find that there is no meaning of this sentence.
+Just nothing to say.
+I'm a boring person.
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello+World!)
 
 ![](https://github-readme-stats.vercel.app/api?username=KnightMow)
 
