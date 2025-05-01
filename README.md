@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)
 
-![Snake](https://github.com/KnightMow/KnightMow/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-stats.vercel.app/api?username=KnightMow)
 
-![3D Contributions](https://github-profile-3d-contrib.vercel.app/KnightMow)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KnightMow&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
