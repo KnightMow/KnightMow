@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<div style="padding: 10px; border: 2px dashed #238636; transition: all 0.3s;" onmouseover="this.style.backgroundColor='#f6f8fa'" onmouseout="this.style.backgroundColor='transparent'">
-  🔍 **悬停试试看**  
-  鼠标悬停时背景色会变化！
-</div>
+bgColor-muted
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KnightMow&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
