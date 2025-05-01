@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-When you read this sentence you will find that there is no meaning of this sentence.
-Just nothing to say.
-I'm a boring person.
-
 ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Hello+World!)
 
+![Typing](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=FFD700&width=435&lines=🚀+Building+Open+Source;💡+Full+Stack+Developer;📚+Learning+AI)
+
 ![](https://github-readme-stats.vercel.app/api?username=KnightMow)
+
+📊 **Skill Level**
+[==========] 100% Python
+[=====-----] 50%  JavaScript
 
 
 
