@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/C)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KnightMow&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
