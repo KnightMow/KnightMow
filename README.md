@@ -1,5 +1,7 @@
 ## Hi there 👋
-bgColor-muted
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KnightMow&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
